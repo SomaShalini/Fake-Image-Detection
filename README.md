@@ -1,1 +1,1 @@
-# Fake-Image-Detection
+# Stock-Market-Prediction
